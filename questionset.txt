@@ -1,0 +1,7 @@
+Q1. Select all students who are from New York.
+Q2. Get top 3 students with highest GPA.
+Q3. Count how many students are from each city.
+Q4. Get student names along with their GPA.
+Q5. Get all students and their emails.
+Q6. Find students with GPA greater than 3.5.
+Q7. Find average GPA of students from each city.
